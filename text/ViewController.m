@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"是神摸让我开心");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
